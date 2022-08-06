@@ -1,0 +1,174 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+
+
+
+
+/* hero */
+.tedih1 {
+    font-family: 'Sacramento', cursive;
+    font-weight: bold;
+    font-size: 70px;
+}
+
+.tedih3 {
+    background-color: rgba(230, 247, 196, 0.452);
+    border-radius: 30px;
+    width: 250px;
+}
+/* end hero */
+
+
+
+
+
+
+/*ucapan pembuka */
+.salam  {
+    font-family: 'Sacramento', cursive;
+    font-weight: bold;
+
+    font-size: 30px;
+
+}
+/* end ucapan pembuka */
+
+
+
+
+
+
+/* mempelai */
+.memperkenalkan {
+    font-family: 'Sacramento', cursive;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.tedimh1 {
+    font-family: 'Sacramento', cursive;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.dan {
+    font-family: 'Sacramento', cursive;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+
+.naissh1 {
+    font-family: 'Sacramento', cursive;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.mempelai .container .row  .ornamenR {
+    transform: scaleX(-1);
+    position: relative;
+    top: 35%;
+}
+
+
+@media screen and (max-width: 768px) {
+    .ornamenR img{
+        display: none;
+        position: absolute;
+    }
+}
+
+
+@media screen and (max-width: 576px) {
+    .ornamenR img{
+        display: none;
+        position: absolute;
+
+    }
+}
+
+
+.mempelai .container .row  .ornamenL {
+    position: relative;
+    top: 35%;
+}
+
+@media screen and (max-width: 768px) {
+    .ornamenL img{
+        display: none;
+        position: absolute;
+
+    }
+}
+
+
+@media screen and (max-width: 576px) {
+    .ornamenL img{
+        display: none;
+        position: absolute;
+
+    }
+}
+/* end mempelai */
+
+
+
+
+
+
+
+/* tgl akad */
+.akad_nikahh1 {
+    font-family: 'Sacramento', cursive;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.wasalam {
+    font-family: 'Sacramento', cursive;
+    font-weight: bold;
+    font-size: 30px;
+}
+/* end tgl akad */
+
+
+
+
+
+
+
+/* qs ar-rum */
+.arrum {
+    font-family: 'Sacramento', cursive;
+    font-weight: bold;
+
+    font-size: 35px;
+}
+
+.ayat {
+    font-family: 'Sacramento', cursive;
+    font-size: 34px;
+}
+/* end qs ar-rum */
+
+
+
+
+
+/* footer */
+footer .kontak a {
+    text-decoration: none;
+    list-style: none;
+    color: black;
+}
+/* end footer */
+
+
+
+
+
