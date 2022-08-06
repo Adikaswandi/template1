@@ -166,10 +166,16 @@
 
 
 /* footer */
+footer h1 {
+    font-size: 15px;
+}
+
 footer .kontak a {
     text-decoration: none;
     list-style: none;
     color: black;
+    font-size: 11px;
+
 }
 /* end footer */
 
