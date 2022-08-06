@@ -34,7 +34,7 @@
     font-family: 'Sacramento', cursive;
     font-weight: bold;
 
-    font-size: 25px;
+    font-size: 23px;
 
 }
 /* end ucapan pembuka */
@@ -48,7 +48,7 @@
 .memperkenalkan {
     font-family: 'Sacramento', cursive;
     font-weight: bold;
-    font-size: 30px;
+    font-size: 25px;
 }
 
 .tedimh1 {
@@ -118,13 +118,6 @@
 /* end mempelai */
 
 
-/* audio {
-    height: 200px;
-    width: auto;
-    margin-left: 2px;
-} */
-
-
 
 
 
@@ -132,13 +125,19 @@
 .akad_nikahh1 {
     font-family: 'Sacramento', cursive;
     font-weight: bold;
-    font-size: 27px;
+    font-size: 23px;
 }
 
 .wasalam {
     font-family: 'Sacramento', cursive;
     font-weight: bold;
-    font-size: 25px;
+    font-size: 23px;
+}
+
+.maps iframe {
+    width: 270px;
+    height: auto;
+    border: 1px black solid;
 }
 /* end tgl akad */
 
@@ -153,7 +152,7 @@
     font-family: 'Sacramento', cursive;
     font-weight: bold;
 
-    font-size: 25px;
+    font-size: 23px;
 }
 
 .ayat {
