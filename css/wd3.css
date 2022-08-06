@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
 }
 
 
@@ -33,7 +34,7 @@
     font-family: 'Sacramento', cursive;
     font-weight: bold;
 
-    font-size: 30px;
+    font-size: 25px;
 
 }
 /* end ucapan pembuka */
@@ -47,26 +48,26 @@
 .memperkenalkan {
     font-family: 'Sacramento', cursive;
     font-weight: bold;
-    font-size: 50px;
+    font-size: 30px;
 }
 
 .tedimh1 {
     font-family: 'Sacramento', cursive;
     font-weight: bold;
-    font-size: 50px;
+    font-size: 45px;
 }
 
 .dan {
     font-family: 'Sacramento', cursive;
     font-weight: bold;
-    font-size: 50px;
+    font-size: 45px;
 }
 
 
 .naissh1 {
     font-family: 'Sacramento', cursive;
     font-weight: bold;
-    font-size: 50px;
+    font-size: 45px;
 }
 
 .mempelai .container .row  .ornamenR {
@@ -117,6 +118,11 @@
 /* end mempelai */
 
 
+/* audio {
+    height: 200px;
+    width: auto;
+    margin-left: 2px;
+} */
 
 
 
@@ -126,13 +132,13 @@
 .akad_nikahh1 {
     font-family: 'Sacramento', cursive;
     font-weight: bold;
-    font-size: 50px;
+    font-size: 27px;
 }
 
 .wasalam {
     font-family: 'Sacramento', cursive;
     font-weight: bold;
-    font-size: 30px;
+    font-size: 25px;
 }
 /* end tgl akad */
 
@@ -147,12 +153,12 @@
     font-family: 'Sacramento', cursive;
     font-weight: bold;
 
-    font-size: 35px;
+    font-size: 25px;
 }
 
 .ayat {
     font-family: 'Sacramento', cursive;
-    font-size: 34px;
+    font-size: 33px;
 }
 /* end qs ar-rum */
 
