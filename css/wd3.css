@@ -142,8 +142,8 @@
 }
 
 .maps iframe {
-    width: 270px;
-    height: auto;
+    /* width: 270px;
+    height: auto; */
     border: 1px black solid;
 }
 /* end tgl akad */
