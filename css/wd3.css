@@ -34,7 +34,7 @@
     font-family: 'Sacramento', cursive;
     font-weight: bold;
 
-    font-size: 23px;
+    font-size: 21px;
 
 }
 /* end ucapan pembuka */
@@ -54,7 +54,7 @@
 .tedimh1 {
     font-family: 'Sacramento', cursive;
     font-weight: bold;
-    font-size: 45px;
+    font-size: 37px;
 }
 
 .dan {
@@ -67,7 +67,7 @@
 .naissh1 {
     font-family: 'Sacramento', cursive;
     font-weight: bold;
-    font-size: 45px;
+    font-size: 37px;
 }
 
 .mempelai .container .row  .ornamenR {
@@ -135,6 +135,10 @@
     font-size: 23px;
 }
 
+.akad_nikahh2 {
+    font-size: 18px;
+}
+
 .wasalam {
     font-family: 'Sacramento', cursive;
     font-weight: bold;
@@ -164,7 +168,7 @@
 
 .ayat {
     font-family: 'Sacramento', cursive;
-    font-size: 33px;
+    font-size: 25px;
 }
 /* end qs ar-rum */
 
