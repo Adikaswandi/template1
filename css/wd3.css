@@ -122,6 +122,13 @@
 
 
 /* tgl akad */
+.souvenir {
+    font-family: 'Sacramento', cursive;
+    font-weight: bold;
+    font-size: 33px;
+}
+
+
 .akad_nikahh1 {
     font-family: 'Sacramento', cursive;
     font-weight: bold;
@@ -166,10 +173,11 @@
 
 
 /* footer */
-footer h1 {
+footer h1 a{
     font-size: 15px;
+    text-decoration: none;
+    color: black;
 }
-
 footer .kontak a {
     text-decoration: none;
     list-style: none;
@@ -177,6 +185,11 @@ footer .kontak a {
     font-size: 11px;
 
 }
+
+footer .kontak a:hover {
+    color: green;
+}
+
 /* end footer */
 
 
